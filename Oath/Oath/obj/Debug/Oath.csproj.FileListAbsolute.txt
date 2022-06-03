@@ -1,0 +1,40 @@
+C:\Users\releb\Desktop\Oath\Oath\Oath\bin\Debug\Oath.exe.config
+C:\Users\releb\Desktop\Oath\Oath\Oath\bin\Debug\Oath.exe
+C:\Users\releb\Desktop\Oath\Oath\Oath\bin\Debug\Oath.pdb
+C:\Users\releb\Desktop\Oath\Oath\Oath\obj\Debug\Oath.csprojAssemblyReference.cache
+C:\Users\releb\Desktop\Oath\Oath\Oath\obj\Debug\Oath.Form1.resources
+C:\Users\releb\Desktop\Oath\Oath\Oath\obj\Debug\Oath.Properties.Resources.resources
+C:\Users\releb\Desktop\Oath\Oath\Oath\obj\Debug\Oath.csproj.GenerateResource.cache
+C:\Users\releb\Desktop\Oath\Oath\Oath\obj\Debug\Oath.csproj.CoreCompileInputs.cache
+C:\Users\releb\Desktop\Oath\Oath\Oath\obj\Debug\Oath.exe
+C:\Users\releb\Desktop\Oath\Oath\Oath\obj\Debug\Oath.pdb
+C:\Users\releb\Desktop\Oath\Oath\Oath\obj\Debug\Oath.frmMain.resources
+F:\N.Dip Information Technology\3rd Year\Semester 2\Projects\Oath\Oath\Oath\bin\Debug\Oath.exe.config
+F:\N.Dip Information Technology\3rd Year\Semester 2\Projects\Oath\Oath\Oath\bin\Debug\Oath.exe
+F:\N.Dip Information Technology\3rd Year\Semester 2\Projects\Oath\Oath\Oath\bin\Debug\Oath.pdb
+F:\N.Dip Information Technology\3rd Year\Semester 2\Projects\Oath\Oath\Oath\obj\Debug\Oath.csprojAssemblyReference.cache
+F:\N.Dip Information Technology\3rd Year\Semester 2\Projects\Oath\Oath\Oath\obj\Debug\Oath.Form1.resources
+F:\N.Dip Information Technology\3rd Year\Semester 2\Projects\Oath\Oath\Oath\obj\Debug\Oath.frmMain.resources
+F:\N.Dip Information Technology\3rd Year\Semester 2\Projects\Oath\Oath\Oath\obj\Debug\Oath.Properties.Resources.resources
+F:\N.Dip Information Technology\3rd Year\Semester 2\Projects\Oath\Oath\Oath\obj\Debug\Oath.csproj.GenerateResource.cache
+F:\N.Dip Information Technology\3rd Year\Semester 2\Projects\Oath\Oath\Oath\obj\Debug\Oath.csproj.CoreCompileInputs.cache
+F:\N.Dip Information Technology\3rd Year\Semester 2\Projects\Oath\Oath\Oath\obj\Debug\Oath.exe
+F:\N.Dip Information Technology\3rd Year\Semester 2\Projects\Oath\Oath\Oath\obj\Debug\Oath.pdb
+F:\N.Dip Information Technology\3rd Year\Semester 2\Projects\Oath\Oath\Oath\obj\Debug\Oath.frmAnalytics.resources
+F:\N.Dip Information Technology\3rd Year\Semester 2\Projects\Oath\Oath\Oath\obj\Debug\Oath.frmCalendar.resources
+F:\N.Dip Information Technology\3rd Year\Semester 2\Projects\Oath\Oath\Oath\obj\Debug\Oath.frmContacts.resources
+D:\N.Dip Information Technology\3rd Year\Semester 2\Projects\Oath\Oath\Oath\bin\Debug\Oath.exe.config
+D:\N.Dip Information Technology\3rd Year\Semester 2\Projects\Oath\Oath\Oath\bin\Debug\Oath.exe
+D:\N.Dip Information Technology\3rd Year\Semester 2\Projects\Oath\Oath\Oath\bin\Debug\Oath.pdb
+D:\N.Dip Information Technology\3rd Year\Semester 2\Projects\Oath\Oath\Oath\obj\Debug\Oath.csproj.AssemblyReference.cache
+D:\N.Dip Information Technology\3rd Year\Semester 2\Projects\Oath\Oath\Oath\obj\Debug\Oath.csproj.SuggestedBindingRedirects.cache
+D:\N.Dip Information Technology\3rd Year\Semester 2\Projects\Oath\Oath\Oath\obj\Debug\Oath.Form1.resources
+D:\N.Dip Information Technology\3rd Year\Semester 2\Projects\Oath\Oath\Oath\obj\Debug\Oath.frmAnalytics.resources
+D:\N.Dip Information Technology\3rd Year\Semester 2\Projects\Oath\Oath\Oath\obj\Debug\Oath.frmCalendar.resources
+D:\N.Dip Information Technology\3rd Year\Semester 2\Projects\Oath\Oath\Oath\obj\Debug\Oath.frmContacts.resources
+D:\N.Dip Information Technology\3rd Year\Semester 2\Projects\Oath\Oath\Oath\obj\Debug\Oath.frmMain.resources
+D:\N.Dip Information Technology\3rd Year\Semester 2\Projects\Oath\Oath\Oath\obj\Debug\Oath.Properties.Resources.resources
+D:\N.Dip Information Technology\3rd Year\Semester 2\Projects\Oath\Oath\Oath\obj\Debug\Oath.csproj.GenerateResource.cache
+D:\N.Dip Information Technology\3rd Year\Semester 2\Projects\Oath\Oath\Oath\obj\Debug\Oath.csproj.CoreCompileInputs.cache
+D:\N.Dip Information Technology\3rd Year\Semester 2\Projects\Oath\Oath\Oath\obj\Debug\Oath.exe
+D:\N.Dip Information Technology\3rd Year\Semester 2\Projects\Oath\Oath\Oath\obj\Debug\Oath.pdb
